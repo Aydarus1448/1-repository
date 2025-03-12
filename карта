@@ -1,0 +1,17 @@
+start
+new number string
+new holder string
+new date string
+new code string
+set number "1234 1234 1234 1234"
+set holder "Бариев Айдар Рустемович"
+set date "10/10"
+set code "145"
+log string "*****************************"
+log string "* Банковская карта *"
+log string "* Номер: " >> number >>" *"
+log string "* Владелец: " >> holder>> " *"
+log string "* Срок действия: " >>date >>" *"
+log string "* CVV код" >> code >>" *"
+log string "*****************************"
+finish
