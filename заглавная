@@ -1,0 +1,9 @@
+start
+log string " __**__"
+log string " _*__*_"
+log string " *____* "
+log string " ******"
+log string " *____* "
+log string " *____* "
+log string " *____* "
+finish
